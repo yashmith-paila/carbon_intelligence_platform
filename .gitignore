@@ -1,0 +1,36 @@
+# Node
+node_modules/
+dist/
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+carbon_env/
+.env
+.pytest_cache/
+
+# IDEs
+.vscode/
+.idea/
+
+# Data Files
+*.csv
+*.joblib
+*.pkl
+*.h5
+*.pdf
+
+# Builds
+.next/
+out/
+build/
+frontend/
+
+# OS
+Thumbs.db
